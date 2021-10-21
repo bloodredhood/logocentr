@@ -1,0 +1,197 @@
+{
+  "home": [
+    {
+      "id": 1,
+      "image": "http://logocentr.by/images/111.png" 
+    },
+    {
+      "id": 2,
+      "image": "http://logocentr.by/images/222.png" 
+    },
+    {
+      "id": 3,
+      "image": "http://logocentr.by/images/333.png" 
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Филиалу по адресу Я.Брыля,30 ровно год",
+      "date": "17.10.2021",
+      "text": "Нашему филиалу по адресу Я.Брыля,30 ровно год! Мы хотим разделить с вами радость от этого события!\nДо конца октября для всех посетителей филиала на Я.Брыля,30\nдействует скидка 50% на диагностику с консультацией или первое занятие!",
+      "image": "http://logocentr.by/images/sampledata/%20%20%20%20%20%20%20%20%20%20%20Instagram.jpg" 
+    },
+    {
+      "id": 2,
+      "title": "Традиционные и нетрадиционные методы постановки звуков русского языка",
+      "date": "13.10.2021",
+      "text": "15 и 16 октября с 16 до 20 центр \"Я Говорю\" проведёт курсы для логопедов по теме \"Традиционные и нетрадиционные методы постановки звуков русского языка\".\nСтоимость курсов - 80 рублей.\nПри записи действует акция \"приведи друга и получи скидку 10 рублей\"",
+      "image": "http://logocentr.by/images/sampledata/parks/---Instagram-111.jpeg" 
+    },
+    {
+      "id": 3,
+      "title": "Курсы для логопедов в октябре!",
+      "date": "01.10.2021",
+      "text": "Приглашаем на курсы для логопедов!\n · 3 октября «диагностика и постановка логопедического заключения», стоимость - 50 рублей\n · 8-10 октября «логопедический массаж» 15 часов, стоимость – 120 рублей.\n · 15-16 октября «коррекция звукопроизношения» 10 часов, стоимость – 80 рублей.\nПри оплате за 3 курса скидка 10% за всё.\nПри записи на любой из курсов действует акция «приведи друга и получискидку 10 рублей»",
+      "image": "" 
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Логопедический массаж",
+      "photos": [
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_20131227-dsc_8847.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8849.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8864.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8866.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8873.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8874.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8875.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8877.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8878.jpg",
+        "http://logocentr.by/images/phocagallery/massage/thumbs/phoca_thumb_l_20131227-dsc_8884.jpg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_6286.jpeg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_6287.jpeg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_6288.jpeg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_6289.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Мероприятия",
+      "photos": [
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_1.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_2.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_3.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_4.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_5.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_6.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_7.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_8.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_9.jpg",
+        "http://logocentr.by/images/phocagallery/mamslet17/thumbs/phoca_thumb_l_10.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Подготовка к школе и подгрупповые занятия",
+      "photos": [
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9273.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9274.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9275.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9277.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9283.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9286.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9316.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131230-dsc_9319.jpg",
+        "http://logocentr.by/images/phocagallery/school/thumbs/phoca_thumb_l_20131231-dsc_9488.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Индивидуальные занятия с логопедом",
+      "photos": [
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr1.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr7.png",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr8.png",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr9.png",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr10.png",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr20.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_20131221-dsc_8299.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_20131221-dsc_8345.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_20131222-dsc_8403.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_20131222-dsc_8539.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_20131222-dsc_8629.jpg",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr4.png",
+        "http://logocentr.by/images/phocagallery/zanyatia/thumbs/phoca_thumb_l_logocentr5.png",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_c755b56c-a69b-4dd0-82eb-c4a56058ff63.jpg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_5379.jpg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_5380.jpg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_5381.jpg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_6058.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Наши филиалы",
+      "photos": [
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_4324.jpeg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_4326.jpeg",
+        "http://logocentr.by/images/phocagallery/thumbs/phoca_thumb_l_img_5418.jpg"
+      ]
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "district": "Советский",
+      "card": "http://logocentr.by/images/sampledata/%209.png"
+    },
+    {
+      "id": 2,
+      "district": "Советский",
+      "card": "http://logocentr.by/images/sampledata/%2010.png"
+    },
+    {
+      "id": 3,
+      "district": "Советский",
+      "card": "http://logocentr.by/images/sampledata/anas.jpg"
+    },
+    {
+      "id": 4,
+      "district": "Советский",
+      "card": "http://logocentr.by/images/sampledata/yy.jpg"
+    },
+    {
+      "id": 5,
+      "district": "Московский",
+      "card": "http://logocentr.by/images/sampledata/%206.png"
+    },
+    {
+      "id": 6,
+      "district": "Московский",
+      "card": "http://logocentr.by/images/sampledata/%208.png"
+    },
+    {
+      "id": 7,
+      "district": "Московский",
+      "card": "http://logocentr.by/images/sampledata/jp.jpg"
+    },
+    {
+      "id": 8,
+      "district": "Фрунзенский",
+      "card": "http://logocentr.by/images/sampledata/%202.png"
+    },
+    {
+      "id": 9,
+      "district": "Фрунзенский",
+      "card": "http://logocentr.by/images/%204.png"
+    },
+    {
+      "id": 10,
+      "district": "Фрунзенский",
+      "card": "http://logocentr.by/images/phocagallery/%205.png"
+    },
+    {
+      "id": 11,
+      "district": "Партизанский",
+      "card": "http://logocentr.by/images/sampledata/%201.png"
+    },
+    {
+      "id": 12,
+      "district": "Партизанский",
+      "card": "http://logocentr.by/images/sampledata/%202.png"
+    },
+    {
+      "id": 13,
+      "district": "Партизанский",
+      "card": "http://logocentr.by/images/sampledata/-_11_.jpeg"
+    },
+    {
+      "id": 13,
+      "district": "Администрация",
+      "card": "http://logocentr.by/images/sampledata/%202.png"
+    }
+  ]
+}
