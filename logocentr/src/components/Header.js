@@ -1,7 +1,6 @@
 import React from "react"
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom"
 import Home from "./Home"
-import About from "./About"
 import {
   Navbar,
   Container,
@@ -11,6 +10,11 @@ import {
   Form,
   FormControl
 } from "react-bootstrap"
+
+import Employees from "./Emloyees"
+import Contacts from "./Contacts"
+import Gallery from "./Gallery"
+
 
 
 const Header = (props) => {
@@ -35,13 +39,14 @@ const Header = (props) => {
               style={{ maxHeight: '100px' }}
               navbarScroll
             >
-              <Nav.Link href="#action1">Главная</Nav.Link>
-              <Nav.Link href="#action2">Форум</Nav.Link>
+              <Nav.Link href="/">Главная</Nav.Link>
               <NavDropdown title="О нас" id="navbarScrollingDropdown">
-                <NavDropdown.Item href="#action3">Контакты</NavDropdown.Item>
-                <NavDropdown.Item href="#action4">Сотрудники</NavDropdown.Item>
-                <NavDropdown.Item href="#action1">Галерея</NavDropdown.Item>
+                <NavDropdown.Item href="/contacts">Контакты</NavDropdown.Item>
+                <NavDropdown.Item href="/employees">Сотрудники</NavDropdown.Item>
+                <NavDropdown.Item href="/gallery">Галерея</NavDropdown.Item>
+                <NavDropdown.Item href="/news">Новости</NavDropdown.Item>
               </NavDropdown>
+              <Nav.Link href="#action2">Форум</Nav.Link>
             </Nav>
             <Form className="d-flex">
               <FormControl
@@ -59,12 +64,10 @@ const Header = (props) => {
 
       <Router>
         <Switch>
-          <Route exact path="/" >
-            <Home />
-          </Route>
-          <Route exact path="/about" >
-            <About />
-          </Route>
+          <Route exact path="/" component={ Home } />
+          <Route exact path="/contacts" component={ Contacts } />
+          <Route exact path="/gallery" component={ Gallery } />
+          <Route exact path="/employees" component={ Employees } />
         </Switch>
       </Router>
     </>
