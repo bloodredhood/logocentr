@@ -30,28 +30,28 @@ const Employees = (props) => {
                         <Col cm={9}>
                             <Tab.Content className="flex-row mt-3 ml=4">
                                 <Tab.Pane eventKey="first">
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%209.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%2010.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/anas.jpg"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/yy.jpg"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%209.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%2010.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/anas.jpg"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/yy.jpg"/>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="second">
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%206.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%208.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/jp.jpg"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%206.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%208.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/jp.jpg"/>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="third">
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%202.png"/>
-                                    <img width="900" src="http://logocentr.by/images/%204.png"/>
-                                    <img width="900" src="http://logocentr.by/images/phocagallery/%205.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%202.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/%204.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/phocagallery/%205.png"/>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fourth">
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%201.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%202.png"/>
-                                    <img width="900" src="http://logocentr.by/images/sampledata/-_11_.jpeg"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%201.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%202.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/-_11_.jpeg"/>
                                 </Tab.Pane>
                                 <Tab.Pane eventKey="fifth">
-                                    <img width="900" src="http://logocentr.by/images/sampledata/%202.png"/>
+                                    <img width="900" alt="" src="http://logocentr.by/images/sampledata/%202.png"/>
                                 </Tab.Pane>
                             </Tab.Content>
                         </Col>
