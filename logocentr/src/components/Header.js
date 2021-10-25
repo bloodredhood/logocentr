@@ -8,8 +8,12 @@ import {
   Nav,
   Button,
   Form,
-  FormControl
+  FormControl,
+  Row,
+  Col
 } from "react-bootstrap"
+
+import Footer from "./Footer"
 
 import Employees from "./Employees"
 import Contacts from "./Contacts"
@@ -23,7 +27,7 @@ const Header = (props) => {
   return (
     <>
       <Navbar bg="light" expand="lg">
-        <Container fluid>
+        <Container>
           <Navbar.Brand href="/">
             <img
               src={logo}
@@ -59,10 +63,10 @@ const Header = (props) => {
               />
               <Button variant="outline-success">Поиск</Button>
             </Form>
-            <Button variant="outline-success">Войти</Button>
           </Navbar.Collapse>
         </Container>
       </Navbar>
+
 
       <Router>
         <Switch>
@@ -73,6 +77,14 @@ const Header = (props) => {
           <Route exact path="/service" component={Service} />
         </Switch>
       </Router>
+
+
+      <Container>
+        <div className="bg-light">
+          <Footer />
+        </div>
+      </Container>
+
     </>
   )
 }

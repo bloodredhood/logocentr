@@ -1,4 +1,6 @@
-const response = await fetch('/')
-const fetchedDataFromServer = await response.json()
+const  fetchedDataFromServer = async() => {
+    const response = await fetch('/')
+    return await response.json()
+}
 
 export default fetchedDataFromServer
