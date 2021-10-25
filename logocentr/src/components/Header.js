@@ -1,5 +1,5 @@
 import React from "react"
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom"
+import { BrowserRouter as Router, Switch, Route, } from "react-router-dom"
 import Home from "./Home"
 import {
   Navbar,
@@ -11,11 +11,11 @@ import {
   FormControl
 } from "react-bootstrap"
 
-
-import Employees from "./Emloyees"
+import Employees from "./Employees"
 import Contacts from "./Contacts"
 import Gallery from "./Gallery"
-
+import Service from "./Service"
+import logo from "./../logo.png"
 
 
 const Header = (props) => {
@@ -26,7 +26,7 @@ const Header = (props) => {
         <Container fluid>
           <Navbar.Brand href="/">
             <img
-              src="https://cdn.discordapp.com/attachments/887602256139128872/900730135110627328/logo.png"
+              src={logo}
               height="80"
               width="80"
               className="d-inline-block align-top"
@@ -47,6 +47,7 @@ const Header = (props) => {
                 <NavDropdown.Item href="/gallery">Галерея</NavDropdown.Item>
                 <NavDropdown.Item href="/news">Новости</NavDropdown.Item>
               </NavDropdown>
+              <Nav.Link href="/service">Услуги</Nav.Link>
               <Nav.Link href="#action2">Форум</Nav.Link>
             </Nav>
             <Form className="d-flex">
@@ -65,10 +66,11 @@ const Header = (props) => {
 
       <Router>
         <Switch>
-          <Route exact path="/" component={ Home } />
-          <Route exact path="/contacts" component={ Contacts } />
-          <Route exact path="/gallery" component={ Gallery } />
-          <Route exact path="/employees" component={ Employees } />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/contacts" component={Contacts} />
+          <Route exact path="/gallery" component={Gallery} />
+          <Route exact path="/employees" component={Employees} />
+          <Route exact path="/service" component={Service} />
         </Switch>
       </Router>
     </>
@@ -76,4 +78,3 @@ const Header = (props) => {
 }
 
 export default Header
-
